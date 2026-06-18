@@ -36,4 +36,10 @@ git push --tags origin master
 
 git branch v0.2
 
+NOMBRE               GITHUB
+
+Alvaro               https://github.com/alvaro
+Hellen               https://github.com/hellen
+Pedro Ruiz           https://github.com/pedro
+
 git checkout v0.2
